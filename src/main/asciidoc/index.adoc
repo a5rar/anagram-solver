@@ -1,0 +1,22 @@
+== Anagram service
+
+=== Sample request to anagram solver
+
+include::{snippets}/anagram/http-request.adoc[]
+
+=== Sample response from anagram solver
+
+include::{snippets}/anagram/http-response.adoc[]
+
+
+=== Response fields
+include::{snippets}/multiple-anagram/response-fields.adoc[]
+
+
+=== Sample multiple word request to anagram solver
+
+include::{snippets}/multiple-anagram/http-request.adoc[]
+
+=== Sample  multiple response from anagram solver
+
+include::{snippets}/multiple-anagram/http-response.adoc[]

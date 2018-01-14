@@ -1,2 +1,2 @@
-# anagram-solver
-anagram solver for  MOJ tech test
+# Anagram-solver
+Anagram solver for  MOJ tech test
